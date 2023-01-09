@@ -4,3 +4,8 @@
 
 ## Overview
 This is a sample REST API which stores order of terminals for a customer into a Postgres database.
+
+This application is using the latest technologies version as per of writing:
+Spring Boot 3
+JUnit 5
+Amazon Corretto 17
